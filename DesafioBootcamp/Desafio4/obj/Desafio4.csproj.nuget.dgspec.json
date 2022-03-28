@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\Anotações\\Git e GitHub\\workspace\\DesafiosDIO\\AulaPratica\\Revisao\\Revisao.csproj": {}
+    "C:\\Users\\Gabriel\\Desktop\\Aprendendo a programar e etc\\Repositório\\DesafiosDIO\\DesafioBootcamp\\Desafio4\\Desafio4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\Anotações\\Git e GitHub\\workspace\\DesafiosDIO\\AulaPratica\\Revisao\\Revisao.csproj": {
+    "C:\\Users\\Gabriel\\Desktop\\Aprendendo a programar e etc\\Repositório\\DesafiosDIO\\DesafioBootcamp\\Desafio4\\Desafio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Anotações\\Git e GitHub\\workspace\\DesafiosDIO\\AulaPratica\\Revisao\\Revisao.csproj",
-        "projectName": "Revisao",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Anotações\\Git e GitHub\\workspace\\DesafiosDIO\\AulaPratica\\Revisao\\Revisao.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Aprendendo a programar e etc\\Repositório\\DesafiosDIO\\DesafioBootcamp\\Desafio4\\Desafio4.csproj",
+        "projectName": "Desafio4",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Aprendendo a programar e etc\\Repositório\\DesafiosDIO\\DesafioBootcamp\\Desafio4\\Desafio4.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Anotações\\Git e GitHub\\workspace\\DesafiosDIO\\AulaPratica\\Revisao\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Aprendendo a programar e etc\\Repositório\\DesafiosDIO\\DesafioBootcamp\\Desafio4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

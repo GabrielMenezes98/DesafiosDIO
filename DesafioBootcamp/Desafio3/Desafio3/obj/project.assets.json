@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Anotações\\Git e GitHub\\workspace\\DesafiosDIO\\AulaPratica\\Revisao\\Revisao.csproj",
-      "projectName": "Revisao",
-      "projectPath": "C:\\Users\\Gabriel\\Desktop\\Anotações\\Git e GitHub\\workspace\\DesafiosDIO\\AulaPratica\\Revisao\\Revisao.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Aprendendo a programar e etc\\Repositório\\DesafiosDIO\\DesafioBootcamp\\Desafio3\\Desafio3\\Desafio3.csproj",
+      "projectName": "Desafio3",
+      "projectPath": "C:\\Users\\Gabriel\\Desktop\\Aprendendo a programar e etc\\Repositório\\DesafiosDIO\\DesafioBootcamp\\Desafio3\\Desafio3\\Desafio3.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Desktop\\Anotações\\Git e GitHub\\workspace\\DesafiosDIO\\AulaPratica\\Revisao\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\Desktop\\Aprendendo a programar e etc\\Repositório\\DesafiosDIO\\DesafioBootcamp\\Desafio3\\Desafio3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
